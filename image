@@ -1,0 +1,55 @@
+style.css
+#image{
+margin-top: 10px;
+box-shadow: 5px 5px 5px 5px gray;
+width: 60px;;
+padding: 20px;
+font-weight: 400;
+padding-bottom: 0px;
+height: 40px;
+user-select: none;
+text-decoration:line-through;
+font-style: italic;
+font-size: x-large;
+border: rgb(0, 0, 0) 2px solid;
+margin-left: 10px;
+border-radius: 10px;
+}
+#user-input{
+box-shadow: 5px 5px 5px 5px rgb(34, 34, 34);
+width:auto;
+margin-right: 10px;
+padding: 10px;
+padding-bottom: 0px;
+height: 40px;
+border: red 0px solid;
+border-radius: 2px;
+}
+input{
+border:1px black solid;
+}
+.inline{
+display:inline-block;
+}
+#btn{
+box-shadow: 5px 5px 5px grey;
+color: aqua;
+margin: 10px;
+background-color: brown;
+}
+h1{
+font-family: 'Times New Roman', Times, serif;
+}
+body{
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: rgb(255, 255, 255);
+}
+.box{
+border: 2px solid black;
+padding: 50px;
+border-radius: 20px;
+background-color: rgb(255, 225, 236);
+}
+
